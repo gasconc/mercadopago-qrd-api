@@ -2,6 +2,7 @@
 [![python](https://img.shields.io/badge/python-v3.7.X-green.svg)](https://www.python.org/)
 [![pip](https://img.shields.io/badge/pip-v10.0.X-yellow.svg)](https://pypi.org/project/pip/)
 [![virtualenv](https://img.shields.io/badge/virtualenv-v15.1.X-red.svg)](https://virtualenv.pypa.io/en/stable/)
+# DISCLAIMER : THIS IS NOT A OFFICIAL TOOL OF MERCADOPAGO! , THIS IS A OPEN SOURCE PROJECT.
 
 # qrd-api
 
