@@ -1,15 +1,22 @@
+
+[![python](https://img.shields.io/badge/python-v3.7.X-green.svg)](https://www.python.org/)
+[![pip](https://img.shields.io/badge/pip-v10.0.X-yellow.svg)](https://pypi.org/project/pip/)
+[![virtualenv](https://img.shields.io/badge/virtualenv-v15.1.X-red.svg)](https://virtualenv.pypa.io/en/stable/)
+
 # qrd-api
 
 Flask API for mercadopago's Dynamic EMVco QR Code Generation
 
+## Installation
+1. Open de folder
 ```
 $cd ix-api-qrd
 ```
-
+2.Activate the virtual environment:
 ```
 $source env/bin/activate
 ```
-
+3.Run the flask app:
 ```
 $python3 app.py
 ```
