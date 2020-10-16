@@ -41,7 +41,7 @@ def read_string(data):
   city=data['city']
   country=data['country']
   external_reference=data['external_reference']
-  tittle=data['tittle']
+  tittle=data['title']
   external_id=data['external_id']
 
 
