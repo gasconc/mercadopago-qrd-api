@@ -2,7 +2,7 @@
 [![python](https://img.shields.io/badge/python-v3.7.X-green.svg)](https://www.python.org/)
 [![pip](https://img.shields.io/badge/pip-v10.0.X-yellow.svg)](https://pypi.org/project/pip/)
 [![virtualenv](https://img.shields.io/badge/virtualenv-v15.1.X-red.svg)](https://virtualenv.pypa.io/en/stable/)
-# DISCLAIMER : THIS IS NOT AN OFFICIAL TOOL OF MERCADOPAGO! , THIS IS AN OPEN SOURCE PROJECT.
+# DISCLAIMER : this is NOT an official tool of mercadopago!, this is an open source project. if you have any doubts about mercadopago's services please contact the support channel (https://www.mercadopago.com.co/developers/es/support/)
 
 # qrd-api
 
