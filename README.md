@@ -27,7 +27,7 @@ curl --location --request POST 'http://127.0.0.1:5000/qr' \
 "description":"Bebida",
 "city":"Buenos Aires",
 "country":"AR",
-"tittle":"TuNegocio",
+"title":"TuNegocio",
 "external_reference":"ticket-123",
 "external_id":"CAJA001"
 }'
