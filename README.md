@@ -5,7 +5,7 @@
 
 # qrd-api
 
-Flask API for mercadopago's Dynamic EMVco QR Code Generation
+Flask API for mercadopago's dynamic EMVco QR Code generation
 
 ## Installation
 1. Open de folder
